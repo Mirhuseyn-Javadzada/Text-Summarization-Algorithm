@@ -1,5 +1,6 @@
 # Text Summarization with Machine Learning and NLP
-https://colab.research.google.com/github/Mirhuseyn-Javadzada/Text-Summarization-Algorithm/blob/main/texts_algorithms.ipynb
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/Text-Summarization-Algorithm/blob/main/texts_algorithms.ipynb)
 
 
 ## Overview
@@ -51,6 +52,7 @@ The notebook explores multiple approaches:
 ## cd texts_algorithms
 ## jupyter notebook texts_algorithms.ipynb
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/Text-Summarization-Algorithm/blob/main/texts_algorithms.ipynb)
 
 
 ##pip install -r requirements.txt
