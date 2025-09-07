@@ -1,5 +1,8 @@
 # Text Summarization with Machine Learning and NLP
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/texts_algorithms/blob/main/texts_algorithms.ipynb)
+
+
 ## Overview
 This repository presents a Jupyter Notebook focused on **automatic text summarization**. The project reduces long dialogues and texts into concise summaries while preserving their essential meaning. Text summarization is a key task in **Natural Language Processing (NLP)** with applications in news aggregation, conversational AI, academic research, and information retrieval.
 
@@ -48,6 +51,8 @@ The notebook explores multiple approaches:
    git clone https://github.com/your-username/texts_algorithms.git
 ## cd texts_algorithms
 ## jupyter notebook texts_algorithms.ipynb
+
+## or open in Google Colab    https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/texts_algorithms/blob/main/texts_algorithms.ipynb
 
 ##pip install -r requirements.txt
 
