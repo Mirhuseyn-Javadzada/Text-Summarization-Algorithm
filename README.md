@@ -52,7 +52,8 @@ The notebook explores multiple approaches:
 ## cd texts_algorithms
 ## jupyter notebook texts_algorithms.ipynb
 
-## or open in Google Colab    https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/texts_algorithms/blob/main/texts_algorithms.ipynb
+## or open in Google Colab   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/texts_algorithms/blob/main/texts_algorithms.ipynb)
+
 
 ##pip install -r requirements.txt
 
