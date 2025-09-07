@@ -1,6 +1,5 @@
 # Text Summarization with Machine Learning and NLP
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mirhuseyn-Javadzada/texts_algorithms/blob/main/texts_algorithms.ipynb)
+https://colab.research.google.com/github/Mirhuseyn-Javadzada/texts_algorithms/blob/main/texts_algorithms.ipynb
 
 
 ## Overview
