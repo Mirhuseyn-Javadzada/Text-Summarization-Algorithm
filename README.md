@@ -1,4 +1,3 @@
-# Text-Summarization-Algorithm
 # Text Summarization with Machine Learning and NLP
 
 ## Overview
@@ -47,9 +46,16 @@ The notebook explores multiple approaches:
 1. Clone this repository:
 2. ```bash
    git clone https://github.com/your-username/texts_algorithms.git
-cd texts_algorithms
+## cd texts_algorithms
+## jupyter notebook texts_algorithms.ipynb
 
-jupyter notebook texts_algorithms.ipynb
+##pip install -r requirements.txt
+
+⚠️ Note: If the notebook does not render correctly on GitHub and shows “Invalid Notebook”, this is caused by metadata issues.
+
+To view and run the notebook, please open it locally with Jupyter Notebook or on Google Colab.
+
+Alternatively, you can remove or fix the metadata.widgets section in the .ipynb file.
 
    ```bash
    git clone https://github.com/your-username/texts_algorithms.git
